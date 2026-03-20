@@ -57,17 +57,6 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 ---
 
-## 🌐 Connect with Me
-
-Follow for more such creative and code-based content!
-
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
-
 Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
 
 ---
@@ -79,9 +68,3 @@ Thanks for checking out this project! If you liked it, consider giving it a ⭐�
 - You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
 - Using this free code publicly is **prohibited**.
 - Any violation will be considered **copyright infringement**, and I reserve the right to report it.
-
-### Premium Code
-- You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/birthday-site)
-- The premium code can be used publicly **only if proper credit is given**:  
-  `Website idea & code by @anujbuilds`  
-- Without credit or without explicit permission, public use is **not allowed**.
